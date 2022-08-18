@@ -93,6 +93,7 @@ COMPARISON OF THE BUILT MODELS :
 
 •	Overall, Random Forest is the best optimized model because of its best Accuracy percentage and reasonable deviations. 
 
+
 BUSINESS INSIGHTS & RECOMMENDATIONS : 
 
 •	The Insurance industry is regarded as one of the most competitive and less predictable business spheres. It is instantly related to risk. Its dependency over statistics is predominantly met by the machine learning models. 
